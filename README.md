@@ -11,15 +11,15 @@ AWSハンズオン学習記録(Udamy講座)
 - IAM（権限管理）
 
 
-
-# 変更を確認
+#gitコマンド
+##変更を確認
 git status
 
-# 変更したファイルをステージ
+##変更したファイルをステージ
 git add .
 
-# ローカルにコミット
+##ローカルにコミット
 git commit -m "今日学んだことを追加"
 
-# GitHubに反映
+##GitHubに反映
 git push origin main
