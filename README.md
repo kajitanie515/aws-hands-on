@@ -11,7 +11,7 @@ AWSハンズオン学習記録(Udamy講座)
 - IAM（権限管理）
 
 
-#gitコマンド
+# gitコマンド
 ##変更を確認
 git status
 
